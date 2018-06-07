@@ -1,0 +1,1 @@
+include src/flask_flamegraph/flamegraph.pl

@@ -1,0 +1,10 @@
+bandit==1.4.0
+coverage==4.5
+flake8==3.5.0
+flask==0.12.2
+isort==4.3.3
+mypy==0.570
+pydocstyle==2.1.1
+pytest-cov==2.5.1
+pytest==3.4.0
+wheel==0.30.0
