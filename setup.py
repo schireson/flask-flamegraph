@@ -26,14 +26,7 @@ SETUP_REQUIREMENTS = [
 setup(
     name='flask_flamegraph',
     url='https://github.com/schireson/flask-flamegraph',
-    author='Schireson',
-    author_email='vantage@schireson.com',
-    version='0.0.1',
-    classifiers=[
-        'Intended Audience :: Developers',
-        'Programming Language :: Python :: 3.6',
-        'Schireson Proprietary',
-    ],
+    version='0.0.2',
     packages=find_packages(where='src', exclude=['tests']),
     package_dir={'': 'src'},
     include_package_data=True,
